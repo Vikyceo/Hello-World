@@ -9,4 +9,5 @@ I am interested in Javascript, Php and MySQL
 I have met a few amazing people who develop games and write clean codes.
 I love to learn new stuff including how to cook..,lol
 Am on Quora, Medium and I like freeCodeCamp.
-I have learnt a few things on w3schools.com
+I have learnt a few things on w3schools.com.
+Nice to meet you too #smile#
